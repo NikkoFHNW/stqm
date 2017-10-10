@@ -47,6 +47,7 @@ public class MovieRentalSystem extends Application {
 	public static void main(String[] args) {
 	    PriceCategory.init();
 		launch(args);
+		//test comment.
 	}
 
 }
